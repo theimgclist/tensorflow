@@ -1,0 +1,26 @@
+<annotation>
+	<folder>handgun</folder>
+	<filename>image10.bmp</filename>
+	<path>C:\Users\kappaavr\Desktop\gundetector\downloads\handguns\handgun\image10.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>12</ymin>
+			<xmax>584</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+</annotation>
