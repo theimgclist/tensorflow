@@ -1,7 +1,7 @@
 <annotation>
-	<folder>handgun</folder>
-	<filename>image72.bmp</filename>
-	<path>C:\Users\kappaavr\Desktop\gundetector\downloads\handguns\handgun\image72.bmp</path>
+	<folder>1</folder>
+	<filename>image72.jpg</filename>
+	<path>C:\Users\kappaavr\Desktop\gundetector\1\image72.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>150</xmin>
-			<ymin>96</ymin>
-			<xmax>715</xmax>
-			<ymax>584</ymax>
+			<xmin>152</xmin>
+			<ymin>103</ymin>
+			<xmax>707</xmax>
+			<ymax>558</ymax>
 		</bndbox>
 	</object>
 </annotation>

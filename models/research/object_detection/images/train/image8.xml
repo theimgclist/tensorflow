@@ -1,13 +1,13 @@
 <annotation>
-	<folder>handgun</folder>
-	<filename>image8.bmp</filename>
-	<path>C:\Users\kappaavr\Desktop\gundetector\downloads\handguns\handgun\image8.bmp</path>
+	<folder>1</folder>
+	<filename>image8.jpg</filename>
+	<path>C:\Users\kappaavr\Desktop\gundetector\1\image8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>780</width>
+		<height>475</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>541</xmin>
-			<ymin>178</ymin>
-			<xmax>725</xmax>
-			<ymax>287</ymax>
+			<xmin>545</xmin>
+			<ymin>189</ymin>
+			<xmax>729</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 </annotation>
