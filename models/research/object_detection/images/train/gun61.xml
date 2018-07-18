@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gun1</folder>
+	<filename>gun61.jpg</filename>
+	<path>C:\Users\kappaavr\Desktop\gundetector\webscraping\downloads\gun1\gun61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>10</ymin>
+			<xmax>492</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>
