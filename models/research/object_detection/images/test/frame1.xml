@@ -1,13 +1,13 @@
 <annotation>
-	<folder>testimages</folder>
-	<filename>frame1.bmp</filename>
-	<path>C:\Users\kappaavr\Desktop\gundetector\downloads\handguns\testimages\frame1.bmp</path>
+	<folder>3 test images re annotating</folder>
+	<filename>frame1.jpg</filename>
+	<path>C:\Users\kappaavr\Desktop\gundetector\3 test images re annotating\frame1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>160</width>
+		<height>120</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>3</ymin>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
 			<xmax>148</xmax>
-			<ymax>94</ymax>
+			<ymax>92</ymax>
 		</bndbox>
 	</object>
 </annotation>
