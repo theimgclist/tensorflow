@@ -1,26 +1,26 @@
 <annotation>
-	<folder>gun1</folder>
+	<folder>train</folder>
 	<filename>gun16.jpg</filename>
-	<path>C:\Users\kappaavr\Desktop\gundetector\webscraping\downloads\gun1\gun16.jpg</path>
+	<path>C:\Users\kappaavr\Desktop\gundetector\5 21st july\guns\train\gun16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>600</width>
-		<height>253</height>
+		<width>500</width>
+		<height>281</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>gun</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>145</ymin>
-			<xmax>270</xmax>
-			<ymax>206</ymax>
+			<xmin>278</xmin>
+			<ymin>237</ymin>
+			<xmax>320</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 </annotation>

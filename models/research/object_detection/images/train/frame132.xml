@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame132.jpg</filename>
+	<path>C:\Users\kappaavr\Desktop\gundetector\5 21st july\guns\train\frame132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>64</ymin>
+			<xmax>247</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

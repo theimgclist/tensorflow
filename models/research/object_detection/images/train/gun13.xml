@@ -1,7 +1,7 @@
 <annotation>
-	<folder>gun1</folder>
+	<folder>train</folder>
 	<filename>gun13.jpg</filename>
-	<path>C:\Users\kappaavr\Desktop\gundetector\webscraping\downloads\gun1\gun13.jpg</path>
+	<path>C:\Users\kappaavr\Desktop\gundetector\5 21st july\guns\train\gun13.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
-			<ymin>48</ymin>
-			<xmax>396</xmax>
-			<ymax>265</ymax>
+			<xmin>169</xmin>
+			<ymin>182</ymin>
+			<xmax>228</xmax>
+			<ymax>260</ymax>
 		</bndbox>
 	</object>
 </annotation>
